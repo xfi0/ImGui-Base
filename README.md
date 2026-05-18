@@ -8,7 +8,13 @@ ImGui-Base provides a minimal boilerplate setup for getting an ImGui window up a
 
 ## Getting Started
 
-Clone the repository and open the project in your preferred IDE. No additional dependencies are required beyond ImGui itself.
+Clone the repository and open the project in your preferred IDE.
+
+## Dependencies
+
+ImGui.net
+ClickableTransparentOverlay
+SixLabors.ImageSharp
 
 ## Configuration
 
